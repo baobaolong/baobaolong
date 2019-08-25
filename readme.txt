@@ -1,3 +1,3 @@
 this project is a test project.
 
-hello all the world.
+hello all of the world.
